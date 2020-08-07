@@ -1,6 +1,6 @@
 El día de hoy probaremos git.
 
 El programa por defecto para el control de archivos hace mas de 15 años.
-nacido en UA
+nacido en Argentina
 
-Es tan bueno como dicen? Descubrelo aquí.
+Es tan bueno como dicen? Descubrelo allá.

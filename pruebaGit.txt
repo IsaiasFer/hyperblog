@@ -2,4 +2,6 @@ El día de hoy probaremos git.
 
 El programa por defecto para el control de archivos hace mas de 10 años.
 
+Julieta Altamirano tiene 16 años y nació en Boston
+
 Mañana veremos microsoft.

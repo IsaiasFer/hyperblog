@@ -41,3 +41,11 @@ body{
 	background-color: white;
 	padding:1em;
 }
+.footer{
+	text-align: center;
+	background: grey;
+	font-weight: bold;
+	color:white;
+	padding:0.5em;
+
+}
